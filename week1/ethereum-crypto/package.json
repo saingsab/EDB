@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_brut_force_harshing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
